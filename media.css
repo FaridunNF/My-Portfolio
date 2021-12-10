@@ -1,0 +1,277 @@
+/* media 1065-1200 */
+@media (min-width:1065px) and (max-width:1200px) {
+    .ketmon {
+        border: 2px solid red;
+    }
+    .nav-link {
+        font-size: 25px;
+    }
+    .header-text {
+        border: 2px solid red;
+    }
+    .header-text h1 {
+        font-size: 45px !important;
+    }
+    .header-text p {
+        font-size: 40px;
+        margin-top: 20px;
+    }
+    .date-item{
+        border: 2px solid red;
+        width: 33%;
+    }
+    .date-item h4 {
+        font-size: 20px;
+    }
+    .text-1 h5 {
+        /* border: 1px solid red; */
+        font-size: 16px;
+    }
+    .carousel-box h1 {
+        font-size: 30px;
+    }
+    .carousel-box img {
+        font-size: 170px;
+    }
+    .h1-1 {
+        font-size: 35px;
+    }
+    .box-2 p {
+        font-size: 18px;
+    }
+    .h1-2 {
+        font-size: 35px;
+    }
+    .card-effect {
+        border: 2px solid black;
+        width: 40% !important;
+        text-align: center !important;
+    }
+    .user-card h3 {
+        font-size: 20px;
+    }
+    .user-card img {
+        width: 50px;
+        height: 50px;
+    }
+    .block-header {
+        border: 1px solid red;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .block-header h1 {
+        font-size: 35px;
+    }
+    .block-user {
+        border: 1px solid red;
+        margin-top: 50px;
+    }
+}
+@media (min-width:850px) and (max-width:1064px){
+.nav-link {
+    font-size: 25px;
+}
+.header-text {
+    /* border: 2px solid red; */
+}
+.header-text h1 {
+    font-size: 45px !important;
+}
+.header-text p {
+    font-size: 40px;
+    margin-top: 20px;
+}
+.date-item{
+    border: 2px solid red;
+    width: 33%;
+}
+.date-item h4 {
+    font-size: 20px;
+}
+.text-1 h5 {
+    /* border: 1px solid red; */
+    font-size: 16px;
+}
+.carousel-box h1 {
+    font-size: 30px;
+}
+.carousel-box img {
+    font-size: 170px;
+}
+.h1-1 {
+    font-size: 35px;
+}
+.box-2 p {
+    font-size: 18px;
+}
+.h1-2 {
+    font-size: 35px;
+}
+.card-effect {
+    border: 2px solid black;
+    width: 40% !important;
+    text-align: center !important;
+}
+.user-card h3 {
+    font-size: 20px;
+}
+.user-card img {
+    width: 50px;
+    height: 50px;
+}
+.block-header {
+    border: 1px solid red;
+    width: 90%;
+    margin: 0 auto;
+}
+.block-header h1 {
+    font-size: 35px;
+}
+.block-user {
+    border: 1px solid red;
+    margin-top: 50px;
+}
+
+}
+@media (min-width:769px) and (max-width:849){
+    .nav-link {
+        font-size: 16px;
+        border: 1px solid red;
+        margin: 8px;
+
+    }
+    .header-text {
+        border: 2px solid red;qza   
+    }
+    .header-text h1 {
+        font-size: 37px !important;
+    }
+    .header-text p {
+        font-size: 30px;
+        margin-top: 15px;
+    }
+    .date-item{
+        border: 2px solid red;
+        width: 29%;
+    }
+    .date-item h4 {
+        font-size: 16px;
+    }
+    .text-1 h5 {
+        /* border: 1px solid red; */
+        font-size: 13px;
+    }
+    .carousel-box h1 {
+        font-size: 25px;
+    }
+    .carousel-box img {
+        font-size: 150px;
+    }
+    .h1-1 {
+        font-size: 27px;
+    }
+    .box-2 p {
+        font-size: 14px;
+    }
+    .h1-2 {
+        font-size: 27px;
+    }
+    .card-effect {
+        border: 2px solid black;
+        width: 40% !important;
+        text-align: center !important;
+    }
+    .user-card h3 {
+        font-size: 20px;
+    }
+    .user-card img {
+        width: 40px;
+        height: 40px;
+    }
+    .block-header {
+        border: 1px solid red;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .block-header h1 {
+        font-size: 13px;
+        border: 1px solid red;
+}
+    .block-user {
+        border: 1px solid red;
+        margin-top: 50px;
+    }
+}
+@media (min-width:577) and (max-width:768){
+    .navbar {
+        margin-top: 10px;
+    }
+    .nav-link {
+        font-size: 16px;
+        margin: 8;
+    }
+    .header-text {
+        /* border: 2px solid red; */
+    }
+    .header-text h1 {
+        font-size: 45px !important;
+    }
+    .header-text p {
+        font-size: 40px;
+        margin-top: 20px;
+    }
+    .date-item{
+        border: 2px solid red;
+        width: 33%;
+    }
+    .date-item h4 {
+        font-size: 20px;
+    }
+    .text-1 h5 {
+        /* border: 1px solid red; */
+        font-size: 16px;
+    }
+    .carousel-box h1 {
+        font-size: 30px;
+    }
+    .carousel-box img {
+        font-size: 170px;
+    }
+    .h1-1 {
+        font-size: 35px;
+    }
+    .box-2 p {
+        font-size: 18px;
+    }
+    .h1-2 {
+        font-size: 35px;
+    }
+    .card-effect {
+        border: 2px solid black;
+        width: 40% !important;
+        text-align: center !important;
+    }
+    .user-card h3 {
+        font-size: 20px;
+    }
+    .user-card img {
+        width: 50px;
+        height: 50px;
+    }
+    .block-header {
+        border: 1px solid red;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .block-header h1 {
+        font-size: 35px;
+    }
+    .block-user {
+        border: 1px solid red;
+        margin-top: 50px;
+    }
+    .carosel-mobile {
+        outline: none;
+        display: block;
+    }
+}
